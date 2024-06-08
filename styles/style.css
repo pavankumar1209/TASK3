@@ -1,0 +1,90 @@
+.products{
+    background-color:#f5f5f7;
+    display: block;
+    height: 351px;
+    float: hidden;
+    
+
+}
+
+.products .love {
+  
+    padding: 55px;
+    font-size: 43px;
+}
+
+span{
+    color:#6e6e73;
+}
+
+.right,.support{
+    display: inline-block;
+
+}
+
+.right,.support{
+    display: inline-block;
+
+}
+
+
+.app,.visit{
+    display: inline-block;
+}
+
+.customer{
+    position: absolute;
+    margin-left: 80%;
+    display:block;
+    bottom: 235px;
+   
+    
+}
+
+img{
+    height: 43px;
+}
+
+.customer{
+    margin-left: 80%;
+    
+}
+
+.visit{
+    margin-left: 80%;
+    position:absolute;
+    bottom: 168px;
+    
+    
+}
+
+.visit .store{
+    display: inline-block;
+}
+
+.content{
+    position:relative;
+}
+.row img{
+    height: 74px;
+}
+.names a{
+    margin-left: 68px;
+}
+
+.row{
+
+    position: absolute;
+    bottom:54px;
+}
+
+.names{
+
+    position: absolute;
+    bottom:36px;
+}
+
+.names a{
+    text-decoration: none;
+    color:black;
+}
